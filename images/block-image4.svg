@@ -1,0 +1,16 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 28 32" width="28" height="32">
+	<title>Landings</title>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #ffffff } 
+	</style>
+	<g id="Landings">
+		<g id="Block_02">
+			<g id="Delivery">
+				<g id="Group 4">
+					<path id="Path 9" fill-rule="evenodd" class="shp0" d="M28 30C28 31.1 27.1 32 26 32L2 32C0.9 32 0 31.1 0 30L0 12C0 11.8 0.05 11.6 0.1 11.4C0 11.15 -0.05 10.8 0.15 10.5L5 0.5C5.2 0.2 5.5 0.05 5.85 0.05C5.9 0 5.95 0 6 0L22 0C22.05 0 22.1 0 22.15 0.05C22.5 0.05 22.85 0.2 23 0.5L27.85 10.5C28.05 10.8 28 11.15 27.9 11.45C27.95 11.65 28 11.8 28 12.05L28 30ZM6.6 2L2.75 10L10.35 10L11.7 2L6.6 2ZM14 2L12 10L16 10L14 2ZM26 13C26 12.45 25.55 12 25 12L18 12L18 22L10 22L10 12L3 12C2.45 12 2 12.45 2 13L2 29C2 29.55 2.45 30 3 30L25 30C25.55 30 26 29.55 26 29L26 13ZM21.4 2L16.35 2L17.7 10L25.25 10L21.4 2ZM16 12L12 12L12 20L16 20L16 12ZM10 26L12 26L12 28L10 28L10 26ZM4 26L8 26L8 28L4 28L4 26Z" />
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

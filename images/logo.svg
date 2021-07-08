@@ -1,0 +1,14 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 123 28" width="123" height="28">
+	<title>Landings</title>
+	<style>
+		tspan { white-space:pre }
+		.txt0 { font-size: 28px;fill: #d9f0ff;font-family: "Dancing  Script" } 
+	</style>
+	<g id="Landings">
+		<g id="Header">
+			<text id="Landings" style="transform: matrix(1,0,0,1,-2,22)" >
+				<tspan x="0" y="0" class="txt0">Landings</tspan>
+			</text>
+		</g>
+	</g>
+</svg>
